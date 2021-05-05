@@ -1,0 +1,4 @@
+# robots.txt dosyası https://www.ihs.com.tr/seo/robots-txt-olusturucu aracı kullanılarak oluşturulmuştur.
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
